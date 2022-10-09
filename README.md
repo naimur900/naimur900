@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
 <h3 align="center">Driven to always learn new things</h3>
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"
+<img align="center" alt="coding" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur900&label=Profile%20views&color=0e75b6&style=flat" alt="naimur900" /> </p>
 
