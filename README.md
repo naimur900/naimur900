@@ -2,7 +2,7 @@
 <h3 align="center">Driven to always learn new things</h3>
 <img align="center" alt="coding" src="https://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif"
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=naimur900&label=Profile%20views&color=0e75b6&style=flat](https://cutewallpaper.org/27/black-and-white-expanse-wallpaper-gif/space-oddity-on-behance.gif)" alt="naimur900" /> </p>
+<p align="left"> <img src="https://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif" alt="naimur900" /> </p>
 
 - 🌱 I’m currently learning **React**
 
