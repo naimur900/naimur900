@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
-<h3 align="center">Driven to always learn new things</h3>
+<h3 align="center">Driven to always learn new things | Beginner | Learning Full Stack Web Development | Studying CSE at BRAC University</h3>
+
+<img align="center" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur900&label=Profile%20views&color=0e75b6&style=flat" alt="naimur900" /> </p>
 
