@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
 <h3 align="center">Driven to always learn new things | Beginner | Learning Full Stack Web Development | Studying CSE at BRAC University</h3>
 
-<img width="300" src="https://64.media.tumblr.com/e593ab0589d5f1b389e4dfbcce2bce20/tumblr_mtp8f9lb591rgpyeqo1_400.gifv">
+<!-- <img width="300" src="https://64.media.tumblr.com/e593ab0589d5f1b389e4dfbcce2bce20/tumblr_mtp8f9lb591rgpyeqo1_400.gifv"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur900&label=Profile%20views&color=0e75b6&style=flat" alt="naimur900" /> </p>
 
